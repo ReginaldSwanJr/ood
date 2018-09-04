@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Novel
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Novel\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Novel()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Novel\r\n
+comment10.params=
+comment10.target=int\ getNumberOfPages()
+comment11.params=
+comment11.target=CREATION_TYPE\ getType()
+comment2.params=creator
+comment2.target=Novel(Creator)
+comment3.params=creator\ title
+comment3.target=Novel(Creator,\ java.lang.String)
+comment4.params=creator\ title\ numberOfPages
+comment4.target=Novel(Creator,\ java.lang.String,\ int)
+comment5.params=creator
+comment5.target=void\ setCreator(Creator)
+comment6.params=
+comment6.target=Creator\ getCreator()
+comment7.params=title
+comment7.target=void\ setTitle(java.lang.String)
+comment8.params=
+comment8.target=java.lang.String\ getTitle()
+comment9.params=numberOfPages
+comment9.target=void\ setNumberOfPages(int)
+numComments=12

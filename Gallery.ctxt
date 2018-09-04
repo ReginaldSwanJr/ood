@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Gallery
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Gallery\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Gallery()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Gallery\r\n
+comment10.params=type
+comment10.target=java.util.List\ creationsByType(CREATION_TYPE)
+comment2.params=creation
+comment2.target=boolean\ add(Creation)
+comment3.params=creation
+comment3.target=Creation\ remove(Creation)
+comment4.params=
+comment4.target=int\ count()
+comment5.params=
+comment5.target=boolean\ isEmpty()
+comment6.params=creation
+comment6.target=boolean\ contains(Creation)
+comment7.params=creator
+comment7.target=int\ countByCreator(Creator)
+comment8.params=type
+comment8.target=int\ countByType(CREATION_TYPE)
+comment9.params=creator
+comment9.target=java.util.List\ creationsByCreator(Creator)
+numComments=11

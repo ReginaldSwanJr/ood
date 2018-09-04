@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=CreationContainer
+comment0.text=\r\n\ Write\ a\ description\ of\ interface\ CreationContainer\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=creation
+comment1.target=boolean\ add(Creation)
+comment2.params=creation
+comment2.target=Creation\ remove(Creation)
+comment3.params=
+comment3.target=int\ count()
+comment4.params=
+comment4.target=boolean\ isEmpty()
+comment5.params=creation
+comment5.target=boolean\ contains(Creation)
+comment6.params=creator
+comment6.target=int\ countByCreator(Creator)
+comment7.params=type
+comment7.target=int\ countByType(CREATION_TYPE)
+comment8.params=creator
+comment8.target=java.util.List\ creationsByCreator(Creator)
+comment9.params=type
+comment9.target=java.util.List\ creationsByType(CREATION_TYPE)
+numComments=10
