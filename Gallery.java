@@ -4,10 +4,10 @@ import java.util.HashSet;
 import java.util.HashMap;
 
 /**
- * Write a description of class Gallery here.
+ * 
  *
- * @author (your name)
- * @version (a version number or a date)
+ * @author (Reginald Swan Jr)
+ * @version (4)
  */
 public class Gallery implements CreationContainer
 {
